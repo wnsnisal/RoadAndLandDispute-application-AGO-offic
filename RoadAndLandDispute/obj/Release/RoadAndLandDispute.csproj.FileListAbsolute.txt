@@ -1,0 +1,15 @@
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\RoadAndLandDispute.exe.config
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\RoadAndLandDispute.exe
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\RoadAndLandDispute.pdb
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\MySql.Data.dll
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\Google.Protobuf.dll
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\Renci.SshNet.dll
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\BouncyCastle.Crypto.dll
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\bin\Release\MySql.Data.xml
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\obj\Release\RoadAndLandDispute.Form1.resources
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\obj\Release\RoadAndLandDispute.frmDeleteAndEdit.resources
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\obj\Release\RoadAndLandDispute.Properties.Resources.resources
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\obj\Release\RoadAndLandDispute.csproj.GenerateResource.Cache
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\obj\Release\RoadAndLandDispute.exe
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\obj\Release\RoadAndLandDispute.pdb
+F:\partition 1\C# projects\AGO Office new\RoadAndLandDispute\RoadAndLandDispute\obj\Release\RoadAndLandDispute.csprojResolveAssemblyReference.cache
